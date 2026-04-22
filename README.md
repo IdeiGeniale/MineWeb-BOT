@@ -15,4 +15,4 @@ MineWeb BOT is a bot for MineWeb that can do much stuff like keeping your server
 
 ## License
 
-GNU General License 3. copy the code, do what you want with it
+Apache 2.0 License. copy the code, do what you want with it

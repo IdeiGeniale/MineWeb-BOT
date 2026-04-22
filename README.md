@@ -1,6 +1,6 @@
 # MineWeb-BOT
 MineWeb BOT is a bot for MineWeb that can do much stuff like keeping your server online 24/7.
-
+MineWeb Multiplayer Docs: https://github.com/IdeiGeniale/MineWeb-Multiplayer-Docs
 ## Features
 
 1. Keep your server alive 24/7
